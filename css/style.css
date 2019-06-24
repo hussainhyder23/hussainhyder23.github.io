@@ -107,7 +107,7 @@ section{
   width: 100%;
   min-height: 500px;
   height: 100vh;
-  /*background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("https://s-ec.bstatic.com/images/hotel/max1024x768/438/43853845.jpg") center center;*/
+  /*background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("https://media.discordapp.net/attachments/588757704948973604/592750987702304808/InternationalflagsatShawMUN.jpeg") center center;*/
   background-image: url("https://s-ec.bstatic.com/images/hotel/max1024x768/438/43853845.jpg");
   background-position: center center;
   -webkit-background-size: cover;
