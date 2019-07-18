@@ -108,7 +108,7 @@ section{
   min-height: 500px;
   height: 100vh;
   /*background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("https://media.discordapp.net/attachments/588757704948973604/592750987702304808/InternationalflagsatShawMUN.jpeg") center center;*/
-  background-image: url("https://s-ec.bstatic.com/images/hotel/max1024x768/438/43853845.jpg");
+  background-image: url("https://cdn.discordapp.com/attachments/588757704948973604/601442869819211786/lkki.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -128,6 +128,14 @@ section{
   text-transform: uppercase;
   font-size: 85px;
   font-weight: 700;
+  line-height: 2;
+  color: #FFC90D;
+
+}
+.hero-unit-primary-text2{
+  font-family: Apple Chancery, cursive;
+  font-size: 25px;
+  font-weight: 700;
   line-height: 1;
   color: #FFC90D;
 
@@ -138,6 +146,13 @@ section{
   font-weight: 500;
   line-height: 1;
   color: #FFFFFF;
+}
+.hero-unit-secondary-text2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 3;
+  color: #FFC90D;
 }
 .hero-unit-btn{
   margin-top: 10px;
