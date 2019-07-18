@@ -1,5 +1,5 @@
-# CBIT-MUN 2017
+# CBIT-MUN 2019
 
-Code for the "CBITMUN 2017 Conference Website"
+Code for the "CBITMUN 2019 Conference Website"
 
 cbitmun.github.io
