@@ -2,4 +2,3 @@
 
 Code for the "CBITMUN 2019 Conference Website"
 
-cbitmun.github.io
